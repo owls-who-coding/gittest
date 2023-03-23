@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+
+#끼얏호우우우우
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
